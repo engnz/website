@@ -17,3 +17,10 @@ engnzはNZに住んでいるけど、たまには母国語で思い切り技術�
 
 Organizationで作成しているので、リポジトリを作って、自分のソースコードを上げることも可能です。その際は、
 チケットを切ってください。どんなリポジトリがあるかは、[engnz organization](https://github.com/engnz)を見て下さい。
+
+### コミュニティで助けていただいている方々（敬称略）
+
+協力いただいた方の中で、許可をいただけた方のお名前を掲載しています。
+
+ - Kazunori Hashikuchi (はっしー) [NZ MoyaSystem](http://nzmoyasystem.hatenablog.com/)
+
