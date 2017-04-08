@@ -64,8 +64,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: "engnz"
+github_repo_count: 10
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -95,7 +95,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: "UA-97055233-1"
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

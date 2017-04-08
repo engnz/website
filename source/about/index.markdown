@@ -20,7 +20,7 @@ Organizationで作成しているので、リポジトリを作って、自分�
 
 ### コミュニティで助けていただいている方々（敬称略）
 
-協力いただいた方の中で、許可をいただけた方のお名前を掲載しています。
+協力いただいている方の中で、許可をいただけた方のお名前を掲載しています。本当にありがとうございます。
 
  - Kazunori Hashikuchi (はっしー) [NZ MoyaSystem](http://nzmoyasystem.hatenablog.com/)
-
+ - Mick Waga
