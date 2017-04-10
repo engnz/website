@@ -27,6 +27,8 @@ footer: true
  - トピックに発言する（要githubアカウント）
  - 自分でトピックを立ち上げる（要githubアカウント）
  - 自分のリポジトリをOrganizationに作成してコードを公開して見る（要organizationへのメンバー参加）
+ - Slackのチャットに参加してお話をする(要Slackアカウント)
+ 
 
 engnzのorganizationにメンバー登録をしたい方はチケットを切ってください。適宜対応します。
 
